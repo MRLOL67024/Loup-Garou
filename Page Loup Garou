@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+<h1 style="text-align: center;">Loup Garou</h1>
+<img style=text-align:right src=https://static.wixstatic.com/media/63cad7_0b0684d2e57f49b1878553f348828fe8~mv2.jpg/v1/fill/w_400,h_400,al_c,lg_1,q_80/63cad7_0b0684d2e57f49b1878553f348828fe8~mv2.jpg />
+
+<h2>Loup Garou d'Entzheim</h2>
+
+<p><a href="App Loup Garou d'Entzheim.html"><h3>Aide au Meneur Loup Garou d'Entzheim</h3></a></p>
+<p><a href="Règle loup-Garou.html"><h3>Règle du Loup Graou d'Entzheim</h3></a></p>
+
+<h2>Loup Garou de Thiercelieux</h2>
+
+<p><a href="App Loup Garou.html"><h3>Aide au Meneur Loup Garou de Thiercelieux</h3></a></p>
+<p><a href="Règle Loup Garou.html"><h3>Règle du Loup Garou de Thiercelieux</h3></a></p>
+</body>
+</html>
